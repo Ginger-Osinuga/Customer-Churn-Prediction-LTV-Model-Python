@@ -1,5 +1,5 @@
 # =============================================================================
-# PROJECT 3: Customer LTV and Churn Prediction Model
+# Customer LTV and Churn Prediction Model
 # =============================================================================
 # What this project does:
 #   - Builds a machine learning model to predict which users are likely to
